@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aysegul. :fairy_woman: </h1>
+<h1 align="center">Hi 👋, I'm Aysegul. :rocket: </h1>
 
 
 
